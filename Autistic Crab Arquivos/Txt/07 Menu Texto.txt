@@ -1,0 +1,34 @@
+Adicionar condição -
+Texto  - 
+
+APARÊNCIA: Comparar opacidade; Está visível; Efeito está habilitado
+
+HIERARQUIA:
+-> Ao ler hierarquia
+Pegar enésimo filho
+Pegar pai
+Possui pai
+Comparar contagem de filhos
+Pegar filho
+Possui filho
+
+
+MISC:
+-> Ao criar
+Escolher por ID única
+Tem etiquetas
+-> Ao destruir
+-> No sinal
+
+ORDEM Z: Comparar elevação Z; Selecionar superior/inferior; Está na camada
+
+TAMANHO & POSIÇÃO: Comparar altura; Comparar X; Escolher mais próximo/mais distante; está na tela; comparar largura; Comparar Y; Está fora do layout
+
+TEXTO:
+-> A Máquina de Escrever finalizou
+Está executando a máquina de escrever texto; Comparar texto; Possui tag em posição
+
+VARIÁVEIS DE INSTÂNCIA: Comparar variável de instância; É uma variável de instância booleana definida; Escolher maior/menor
+
+ÂNGULO: Está dentro do ângulo; Está no sentido horário de; Está entre ângulos
+

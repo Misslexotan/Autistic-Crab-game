@@ -1,0 +1,162 @@
+Tags FaseI Ambienta
+
+Crab
+Posição Crab0
+Comportamento Sólido Crab1
+
+OctopusPink
+Posição OP
+Comportamento Sólido Op1
+
+Octopusblue
+Posição  OB
+Comportamento Sólido Ob1
+
+Kelps
+Posição K02
+Comportamento Sólido K2
+
+Kelps
+Posição K01
+Comportamento Sólido K1
+
+Oyster
+Posição Oy01
+Comportamento Sólido O1
+
+Oyster
+Posição Oy02
+Comportamento Sólido O2
+
+Oyster
+Posição Oy03
+Comportamento Sólido O3
+
+GoldDiamond
+Posição DG01
+Comportamento Sólido Dg1
+
+GoldDiamond
+Posição DG02
+Comportamento Sólido Dg2
+
+GoldDiamond
+Posição DG03
+Comportamento Sólido Dg3
+
+GoldDiamond
+Posição DG04
+Comportamento Sólido Dg4
+
+Greenrock
+Posição GR01
+Comportamento Sólido Gr1
+
+Greenrock
+Posição GR02
+Comportamento Sólido Gr2
+
+Greenrock
+Posição GR03
+Comportamento Sólido Gr3
+
+Greenrock
+Posição GR04
+Comportamento Sólido Gr4
+
+RubyRock
+Posição RR01
+Comportamento Sólido RR1
+
+RubyRock
+Posição RR02
+Comportamento Sólido RR2
+
+RubyRock
+Posição RR03
+Comportamento Sólido RR3
+
+RubyRock
+Posição RR04
+Comportamento Sólido RR4
+
+Bolha01 (G)
+Posição B01
+Posição B14
+Posição B17
+Posição B18
+
+Bolha01 (P)
+Posição B02
+Posição B03
+Posição B04
+Posição B05
+Posição B06
+Posição B07
+Posição B08
+Posição B09
+Posição B10
+Posição B11
+Posição B12
+Posição B13
+Posição B15
+Posição B16
+Posição B19
+Posição B20
+
+Redcoral
+Posição RC01
+Comportamento Sólido Rc1
+
+Oragecoral
+Posição OC01
+Comportamento Sólido Oc1
+
+Bluecoral
+Posição BC01
+Comportamento Sólido Bc1
+
+Softrock
+Posição SR01
+Comportamento Sólido Sr1
+
+Softrock
+Posição SR02
+Comportamento Sólido Sr2
+
+Softrock
+Posição SR03
+Comportamento Sólido Sr3
+
+Softrock
+Posição SR04
+Comportamento Sólido Sr4
+
+Softrock
+Posição SR05
+Comportamento Sólido Sr5
+
+Rock
+Posição Rock01
+Comportamento Sólido Rock1
+
+Rock
+Posição Rock02
+Comportamento Sólido Rock2
+
+Rock
+Posição Rock03
+Comportamento Sólido Rock3
+
+Rock
+Posição Rock04
+Comportamento Sólido Rock4
+
+bau
+Posição BU01
+Comportamento Sólido Bu1
+
+Fundo de tela (Layout)
+Posição L01
+
+

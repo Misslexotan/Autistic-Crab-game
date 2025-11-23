@@ -1,0 +1,8 @@
+Adicionar condição -
+ControladorDaTimeline  - 
+
+MISCELÂNIA: Definir instância; Desconfigurar instâncias
+
+POR LINHA DO TEMPO: Continuar; Definir tempo; Executar (por nome); Pausar; Definir taxar de reprodução; Executar; Parar
+
+TODAS AS LINHAS DO TEMPO: Executar todas; Pausar todas; Parar tudo; Retomar todas.  

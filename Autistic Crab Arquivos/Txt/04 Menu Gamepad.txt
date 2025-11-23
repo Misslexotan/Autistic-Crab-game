@@ -1,0 +1,4 @@
+Adicionar condição -
+Gamepad  - 
+
+GAMEPAD: Redefinir Vibração; Vibrar (vibração dupla); Vibrar (gatilho de vibração) 

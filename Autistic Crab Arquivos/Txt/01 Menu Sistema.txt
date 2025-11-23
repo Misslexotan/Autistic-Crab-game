@@ -1,0 +1,43 @@
+Adicionar condição -
+Sistema - 
+
+CAMADAS: Camada está vazia; Camada é interativa; Comparar opacidade; Camada é HTML; Camada é visível; Nome da camada existe
+
+CONDIÇÕES ESPECIAIS: Ativa uma vez enquanto verdadeira; Senão; Está em visualização
+
+GERAL: A cada tick; Comparar dois valores; Grupo está ativo; Objeto com UID existe; É um valor do tipo; Avaliar expressão; Está entre valores; Número é NAN; Testar regex
+
+GERENCIAMENTO DE MEMÓRIA: Está carregando imagens 
+-> Quando a imagem do carregamento completar
+
+INÍCIO & FIM:
+-> Ao completar layout de carregamento
+-> Ao retomar
+-> No término do layout
+-> Ao iniciar layout
+Está suspenso
+-> Quando suspenso
+
+LAYOUT:
+-> Ao capturar tela
+
+LOOPS: Enquanto; Para Cada; Repetir: Para; Para Cara (ordenado)
+
+SALVAR & CARREGAR:
+-> Ao completar carregamento; Ao falhar carregamento; Ao completar salvamento; Ao falhar em salvar
+
+SELECIONAR INSTÂNCIAS: Selecionar instância aleatória; Selecionar pontos de sobreposição; Selecionar por comparação; Selecionar todos; Selecionar o último criado; Selecionar por avaliação; Selecionar por valor mais alto/baixo; Selecionar uma n-êsima instância
+
+TEMPLATES: Template existe
+
+TEMPO: Acada X segundos;
+-> No sinal
+Comparar tempo
+
+VARIÁVEIS LOCAIS E GLOBAIS: Booleana está definida; Comparar variável
+
+ÂNGULOS: Está dentro do ângulo; Está no sentido horário de; Está entre ângulos
+
+
+
+

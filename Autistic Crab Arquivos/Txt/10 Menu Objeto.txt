@@ -1,0 +1,38 @@
+Adicionar condição -
+Objeto - 
+
+APARÊNCIA: Comparar opacidade; Está espelhado; Está visível; Efeito está habilitado; Permite deslizar
+
+HIERARQUIA:
+-> Ao ler hierarquia
+Pegar enésimo filho
+Pegar pai
+Possui pai
+Comparar contagem de filhos
+Pegar filho
+Possui filho
+
+
+MISC:
+-> Ao criar
+Escolher por ID única
+Tem etiquetas
+-> Ao destruir
+-> No sinal
+
+ORDEM Z: Comparar elevação Z; Selecionar superior/inferior; Está na camada
+
+RANDOMIZAÇÃO DE BLOCOS: A randomização de blocos está ativa
+
+SÓLIDO: Está habilitado
+
+TAMANHO & POSIÇÃO: Comparar altura; Comparar X; Escolher mais próximo/mais distante; está na tela; comparar largura; Comparar Y; Está fora do layout
+
+VARIÁVEIS DE INSTÂNCIA: Comparar variável de instância; É uma variável de instância booleana definida; Escolher maior/menor
+
+WEB:
+-> Ao carregar URL da imagem
+-> Erro da URL da imagem
+
+ÂNGULO: Está dentro do ângulo; Está no sentido horário de; Está entre ângulos
+

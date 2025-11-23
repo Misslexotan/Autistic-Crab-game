@@ -1,0 +1,18 @@
+Adicionar condição -
+Mouse  - 
+
+MOUSE: 
+-> Ao clicar
+-> Ao soltar botão
+-> Em qualquer clique
+O botão do mouse está pressionado
+-> Ao clicar em objeto
+Cursor está sobre objeto
+-> Na roda do mouse
+
+TRAVAR PONTEIRO:
+-> Ao destravar ponteiro
+-> Ao travar ponteiro
+Possui trava de ponteiro
+-> Ao falhar em travar ponteiro
+-> Em movimento

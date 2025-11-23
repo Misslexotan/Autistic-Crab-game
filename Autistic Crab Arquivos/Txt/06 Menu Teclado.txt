@@ -1,0 +1,26 @@
+Adicionar condição -
+Teclado  - 
+
+BLOQUEAR TECLADO: 
+-> Ao bloquear teclado 
+Permite bloqueio de teclado
+-> Ao falhar bloqueio de teclado
+
+CÓDIGOS DE TECLADO:
+-> Ao pressionar código numérico
+Código numérico está para pressionado
+-> Ao soltar código numérico
+
+TECLADO:
+-> Ao pressionar qualquer tecla
+-> Ao soltar qualquer tecla
+Tecla está pressionada
+-> Ao pressionar tecla
+-> Ao soltar tecla
+
+TECLAS ESQUERDA/DIREITA:
+-> Ao pressionar tecla esquerda/direita
+Tecla direita/esquerda está pressionada
+-> Ao soltar tecla direita/esquerda
+
+

@@ -1,0 +1,20 @@
+Adicionar condição -
+BarraDeProgresso  - 
+
+BARRA DE PROGRESSO: Definir dica de utilização; Definir progresso; Definir máximo; Tornar indeterminado 
+
+CRONÔMETRO: Iniciar cronômetro; Para todos os cronômetros; Pausar/continuar todos os cronômetros; Parar Cronômetro; Para/continuar cronômetro
+
+ELEMENTO HTML: Definir atributo; Definir visibilidade; Definir estilo CSS; Remover atributo 
+
+HIERARQUIA: Adicionar filho; Remover filho; Remover do pai
+
+MISC: Aguardando pelo sinal; Destruir; Sinalizar; Definir a partir de JSON; Mudar etiquetas 
+
+ORDEM Z: Mover para a camada; Mover para o objeto; Mover para o fundo; Mover para o topo
+
+TAMANHO & POSIÇÃO: Definir altura; Definir posição; Definir tamanho; Definir Y; Definir Largura; Definir posição para outro objeto; Definir X, Mover em ângulo
+
+VARIÁVEIS DE INSTÂNCIA: Adicionar a; Definir booleana; Subtrair de; Alterar booleana; Definir valor
+
+ÂNCORA: Definir como habilitado 

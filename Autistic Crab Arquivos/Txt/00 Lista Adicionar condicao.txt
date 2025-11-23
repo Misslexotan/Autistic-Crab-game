@@ -1,0 +1,31 @@
+Adicionar condição -
+Sistema
+Backfase01_Plano de Fundo
+Backfase02_Plano de Fundo
+Backfase03_Plano de Fundo
+Backfase(n...)_Plano de Fundo
+BarraDeProgresso
+bau_Objeto
+Bluecoral_Objeto
+Bolha01_Objeto
+Castel_Objeto
+ControladorD aTimeline
+Crab_Personagem01
+Gamepad
+GoldDiamond_Objeto
+Greenrpck_Objeto
+Mouse
+Octopusblue_NPC01
+OctopusPink_NPC02
+Orangecoral_Objeto
+Oyster_ObjetoNPC
+Redcoral_Objeto
+Rock_Objeto
+RubyRock_Objeto
+Softrock_Objeto
+Strabicfisch_NPC
+Teclado
+Texto
+Toque
+
+
